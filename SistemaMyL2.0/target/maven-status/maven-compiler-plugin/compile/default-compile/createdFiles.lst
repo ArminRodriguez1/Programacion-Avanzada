@@ -1,0 +1,10 @@
+controlador\Json$1.class
+modelo\Rareza.class
+modelo\Menu.class
+vistas\MostrarCartas.class
+controlador\Json.class
+vistas\VentanaMostrarCarta.class
+carta\Carta.class
+app\Main.class
+modelo\Edicion.class
+vistas\VentanaBuscar.class
